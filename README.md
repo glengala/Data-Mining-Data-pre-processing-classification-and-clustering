@@ -1,4 +1,4 @@
-#Data pre-processing: classification and clustering
+# Data pre-processing: classification and clustering
 This project involves building a data mining model using decision trees and K-means clustering.
 
 ### Part 1: Classification
